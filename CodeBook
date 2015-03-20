@@ -3,6 +3,7 @@
 This Code Book was set by using 
 - the library(Hmisc) 
 - the function describe()
+- the class() function
 
 ## Question5 - Class: Grouped Data Frame##
 
