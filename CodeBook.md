@@ -11,7 +11,7 @@ This Code Book was set by using
 
  50  Variables      180  Observations
 
-subjects 
+### subjects - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75    .90     .95
     180       0      30       1    15.5     2.0     3.9     8.0    15.5    23.0   27.1    29.0 
 
