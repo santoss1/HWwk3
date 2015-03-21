@@ -12,10 +12,8 @@ This Code Book was set by using
  50  Variables      180  Observations
 
 subjects 
-      n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
-    180       0      30       1    15.5     2.0     3.9     8.0    15.5    23.0 
-    .90     .95 
-   27.1    29.0 
+      n missing  unique    Info    Mean     .05     .10     .25     .50     .75    .90     .95
+    180       0      30       1    15.5     2.0     3.9     8.0    15.5    23.0   27.1    29.0 
 
 lowest :  1  2  3  4  5, 
 highest: 26 27 28 29 30 
@@ -43,7 +41,7 @@ lowest : 0.2216 0.2333 0.2395 0.2421 0.2472
 highest: 0.2956 0.2959 0.2961 0.2975 0.3015 
 
 
-### tBodyAcc.mean...Y - class: numeric ### 
+### tbodycccmeany - class: numeric ### 
         n   missing    unique      Info      Mean       .05       .10       .25 
       180         0       180         1  -0.01788 -0.028267 -0.026875 -0.020022 
       .50       .75       .90       .95 
