@@ -8,9 +8,8 @@ This Code Book was set by using
 
 ## Question5 - Class: Grouped Data Frame ##
 
-
  50  Variables      180  Observations
---------------------------------------------------------------------------------------
+
 subjects 
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0      30       1    15.5     2.0     3.9     8.0    15.5    23.0 
