@@ -15,7 +15,7 @@ subjects
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75    .90     .95
     180       0      30       1    15.5     2.0     3.9     8.0    15.5    23.0   27.1    29.0 
 
-lowest :  1  2  3  4  5, 
+lowest :  1  2  3  4  5
 highest: 26 27 28 29 30 
 
 
@@ -23,10 +23,10 @@ highest: 26 27 28 29 30
       n missing  unique 
     180       0       6 
 
-LAYING (30, 17%), 
-SITTING (30, 17%), 
+LAYING (30, 17%)
+SITTING (30, 17%) 
 STANDING (30, 17%) 
-WALKING (30, 17%), 
+WALKING (30, 17%) 
 WALKING_DOWNSTAIRS (30, 17%) 
 WALKING_UPSTAIRS (30, 17%) 
 
