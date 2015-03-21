@@ -109,7 +109,7 @@ lowest : -0.03869 -0.03802 -0.02140 -0.02106 -0.02069
 highest:  0.03671  0.03750  0.03972  0.03999  0.05682 
 
 
-### tbodyaccjerkmeanz - class: numeric ### 
+### tbodyaccjerkmeanz - class: numeric
         n   missing unique  Info    Mean       .05       .10       .25       .50       .75       .90       .95 
       180      0       180    1 -0.004953 -0.029383 -0.021055 -0.010601 -0.003861  0.001958  0.007939  0.015935 
 
@@ -127,7 +127,7 @@ lowest : -0.20578 -0.16397 -0.15983 -0.14110 -0.13878
 highest:  0.09033  0.09320  0.09579  0.13498  0.19270 
 
 
-### tbodygyromeany - class: numeric ### 
+### tbodygyromeany - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50      .75      .90      .95 
      180        0      180        1 -0.07426 -0.13993 -0.11159 -0.08955 -0.07318 -0.06113 -0.03440 -0.01348 
 
@@ -208,7 +208,7 @@ lowest : -0.9807 -0.9807 -0.9800 -0.9782 -0.9776
 highest:  0.1000  0.1663  0.1664  0.3658  0.4180 
 
 
-### tBodyGyroJerkMag.mean.. - class: numeric ### 
+### tbodygyrojerkmagmean - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.7364 -0.9937 -0.9922 -0.9852 -0.8648 -0.5119 
     .90     .95 
@@ -218,7 +218,7 @@ lowest : -0.99732 -0.99633 -0.99539 -0.99497 -0.99487
 highest: -0.12619 -0.08294 -0.04631  0.01153  0.08758 
 
 
-### fBodyAcc.mean...X - class: numeric ### 
+### fbodyaccmeanx - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.5758 -0.99063 -0.98827 -0.97869 -0.76909 
      .75      .90      .95 
@@ -228,7 +228,7 @@ lowest : -0.9952 -0.9950 -0.9940 -0.9938 -0.9931
 highest:  0.2054  0.2157  0.2353  0.3283  0.5370 
 
 
-### fBodyAcc.mean...Y - class: numeric ### 
+### fbodyaccmeany - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.4887 -0.97429 -0.96813 -0.95361 -0.59498 
      .75      .90      .95 
@@ -238,7 +238,7 @@ lowest : -0.9890 -0.9849 -0.9837 -0.9829 -0.9821
 highest:  0.3715  0.3884  0.4035  0.4945  0.5242 
 
 
-### fBodyAcc.mean...Z - class: numeric ### 
+### fbodyaccmeanz - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.6297 -0.98305 -0.97492 -0.96195 -0.72360 
      .75      .90      .95 
@@ -248,7 +248,7 @@ lowest : -0.9895 -0.9886 -0.9877 -0.9874 -0.9853
 highest:  0.1107  0.1596  0.1917  0.2805  0.2807 
 
 
-### fBodyAcc.meanFreq...X - class: numeric ### 
+### fbodyaccmeanfreqx - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.2323 -0.51706 -0.46146 -0.39165 -0.25731 
      .75      .90      .95 
@@ -258,7 +258,7 @@ lowest : -0.6359 -0.5934 -0.5903 -0.5546 -0.5514
 highest:  0.1053  0.1085  0.1287  0.1378  0.1591 
 
 
-### fBodyAcc.meanFreq...Y - class: numeric ### 
+### fbodyaccmeanfreqy - class: numeric
         n   missing    unique      Info      Mean       .05       .10       .25 
       180         0       180         1   0.01153 -0.224031 -0.160957 -0.081314 
       .50       .75       .90       .95 
@@ -268,7 +268,7 @@ lowest : -0.3795 -0.3665 -0.3338 -0.2717 -0.2494
 highest:  0.3098  0.3283  0.3484  0.3662  0.4665 
 
 
-### fBodyAcc.meanFreq...Z - class: numeric ### 
+### fbodyaccmeanfreqz - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  0.04372 -0.28542 -0.21541 -0.03629  0.06582 
      .75      .90      .95 
@@ -278,7 +278,7 @@ lowest : -0.5201 -0.5128 -0.5122 -0.4865 -0.4635
 highest:  0.3348  0.3519  0.3601  0.3746  0.4025 
 
 
-### fBodyAccJerk.mean...X - class: numeric ### 
+### fbodyaccjerkmeanx - class: numeric
         n   missing    unique      Info      Mean       .05       .10       .25 
       180         0       180         1   -0.6139 -0.992031 -0.989238 -0.982838 
       .50       .75       .90       .95 
@@ -288,7 +288,7 @@ lowest : -0.9946 -0.9945 -0.9937 -0.9934 -0.9927
 highest:  0.1381  0.1814  0.2015  0.2148  0.4743 
 
 
-### fBodyAccJerk.mean...Y - class: numeric ### 
+### fbodyaccjerkmeany - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.5882 -0.98524 -0.98217 -0.97254 -0.78166 
      .75      .90      .95 
@@ -298,7 +298,7 @@ lowest : -0.9894 -0.9883 -0.9882 -0.9871 -0.9863
 highest:  0.1600  0.1648  0.2058  0.2206  0.2767 
 
 
-### fBodyAccJerk.mean...Z - class: numeric ### 
+### fbodyaccjerkmeanz - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.7144 -0.9881 -0.9861 -0.9796 -0.8707 -0.4697 
     .90     .95 
@@ -308,7 +308,7 @@ lowest : -0.99202 -0.99075 -0.98956 -0.98912 -0.98883
 highest: -0.05720 -0.02488  0.05861  0.05959  0.15778 
 
 
-### fBodyAccJerk.meanFreq...X - class: numeric ### 
+### fbodyaccjerkmeanfreqx - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.0691 -0.43962 -0.39135 -0.28966 -0.06091 
      .75      .90      .95 
@@ -318,7 +318,7 @@ lowest : -0.5760 -0.5213 -0.5086 -0.4750 -0.4509
 highest:  0.3033  0.3055  0.3122  0.3142  0.3314 
 
 
-### fBodyAccJerk.meanFreq...Y - class: numeric ### 
+### fbodyaccjerkmeanfreqy - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.2281 -0.53414 -0.47834 -0.39751 -0.23209 
      .75      .90      .95 
@@ -328,7 +328,7 @@ lowest : -0.60197 -0.58602 -0.57701 -0.55909 -0.55341
 highest:  0.09874  0.12121  0.12704  0.13473  0.19568 
 
 
-### fBodyAccJerk.meanFreq...Z - class: numeric ### 
+### fbodyaccjerkmeanfreqz - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.1376 -0.51252 -0.44687 -0.30867 -0.09187 
      .75      .90      .95 
@@ -338,7 +338,7 @@ lowest : -0.6276 -0.6262 -0.6124 -0.5528 -0.5511
 highest:  0.1488  0.1652  0.1669  0.1906  0.2301 
 
 
-### fBodyGyro.mean...X - class: numeric ### 
+### fbodygyromeanx - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.6367 -0.9870 -0.9834 -0.9697 -0.7300 -0.3387 
     .90     .95 
@@ -348,7 +348,7 @@ lowest : -0.99312 -0.99244 -0.99014 -0.98996 -0.98841
 highest: -0.06296 -0.03000  0.06337  0.22814  0.47496 
 
 
-### fBodyGyro.mean...Y - class: numeric ### 
+### fbodygyromeany - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.6767 -0.9862 -0.9831 -0.9700 -0.8141 -0.4458 
     .90     .95 
@@ -358,7 +358,7 @@ lowest : -0.9940 -0.9937 -0.9916 -0.9903 -0.9890
 highest:  0.1161  0.1187  0.1471  0.1956  0.3288 
 
 
-### fBodyGyro.mean...Z - class: numeric ### 
+### fbodygyromeanz - class: numeric
         n   missing    unique      Info      Mean       .05       .10       .25 
       180         0       180         1   -0.6044 -0.980874 -0.975842 -0.962424 
       .50       .75       .90       .95 
@@ -368,7 +368,7 @@ lowest : -0.9860 -0.9860 -0.9850 -0.9842 -0.9837
 highest:  0.1660  0.1967  0.2107  0.2570  0.4924 
 
 
-### fBodyGyro.meanFreq...X - class: numeric ### 
+### fbodygyromeanfreqx - class: numeric
         n   missing    unique      Info      Mean       .05       .10       .25 
       180         0       180         1   -0.1046 -0.329563 -0.285349 -0.213363 
       .50       .75       .90       .95 
@@ -378,7 +378,7 @@ lowest : -0.3958 -0.3935 -0.3912 -0.3897 -0.3806
 highest:  0.1892  0.2134  0.2141  0.2359  0.2492 
 
 
-### fBodyGyro.meanFreq...Y - class: numeric ### 
+### fbodygyromeanfreqy - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.1674 -0.47363 -0.38508 -0.29433 -0.15794 
      .75      .90      .95 
@@ -388,7 +388,7 @@ lowest : -0.6668 -0.6427 -0.6355 -0.5491 -0.5269
 highest:  0.1511  0.1665  0.2006  0.2322  0.2731 
 
 
-### fBodyGyro.meanFreq...Z - class: numeric ### 
+### fbodygyromeanfreqz - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1 -0.05718 -0.34626 -0.25298 -0.15481 -0.05081 
      .75      .90      .95 
@@ -398,7 +398,7 @@ lowest : -0.5075 -0.5016 -0.4837 -0.4301 -0.4198
 highest:  0.2662  0.2892  0.3029  0.3030  0.3771 
 
 
-### fBodyAccMag.mean.. - class: numeric ### 
+### fbodyaccmagmean - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.5365 -0.9752 -0.9724 -0.9560 -0.6703 -0.1622 
     .90     .95 
@@ -408,7 +408,7 @@ lowest : -0.9868 -0.9868 -0.9854 -0.9848 -0.9845
 highest:  0.3312  0.3648  0.3960  0.4719  0.5866 
 
 
-### fBodyAccMag.meanFreq.. - class: numeric ### 
+### fbodyaccmagmeanfreq - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  0.07613 -0.14537 -0.10252 -0.01475  0.08132 
      .75      .90      .95 
@@ -418,7 +418,7 @@ lowest : -0.3123 -0.2733 -0.2416 -0.2186 -0.1844
 highest:  0.3686  0.3687  0.3821  0.3932  0.4358 
 
 
-### fBodyBodyAccJerkMag.mean.. - class: numeric ### 
+### fbodyaccjerkmagmean - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1  -0.5756 -0.98879 -0.98590 -0.97697 -0.79405 
      .75      .90      .95 
@@ -428,7 +428,7 @@ lowest : -0.9940 -0.9925 -0.9914 -0.9904 -0.9902
 highest:  0.2222  0.2438  0.3315  0.3350  0.5384 
 
 
-### fBodyBodyAccJerkMag.meanFreq.. - class: numeric ### 
+### fbodyaccjerkmagmeanfreq - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1   0.1625 -0.04911 -0.01200  0.04527  0.17198 
      .75      .90      .95 
@@ -438,7 +438,7 @@ lowest : -0.12521 -0.11716 -0.11288 -0.08901 -0.08457
 highest:  0.40510  0.42222  0.42685  0.45909  0.48809 
 
 
-### fBodyBodyGyroMag.mean.. - class: numeric ### 
+### fbodygyromagmean - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.6671 -0.9799 -0.9743 -0.9616 -0.7657 -0.4087 
     .90     .95 
@@ -448,7 +448,7 @@ lowest : -0.9865352 -0.9846176 -0.9843291 -0.9842911 -0.9840013
 highest: -0.0003627  0.0488589  0.1508257  0.1850782  0.2039798 
 
 
-### fBodyBodyGyroMag.meanFreq.. - class: numeric ### 
+### fbodygyromagmeanfreq - class: numeric
        n  missing   unique     Info     Mean      .05      .10      .25      .50 
      180        0      180        1 -0.03603 -0.31020 -0.25986 -0.16951 -0.05352 
      .75      .90      .95 
@@ -458,7 +458,7 @@ lowest : -0.4566 -0.4145 -0.3999 -0.3828 -0.3780
 highest:  0.3515  0.3516  0.3856  0.4027  0.4095 
 
 
-### fBodyBodyGyroJerkMag.mean.. - class: numeric ### 
+### fbodygyrojerkmagmean - class: numeric
       n missing  unique    Info    Mean     .05     .10     .25     .50     .75 
     180       0     180       1 -0.7564 -0.9924 -0.9905 -0.9813 -0.8779 -0.5831 
     .90     .95 
@@ -468,7 +468,7 @@ lowest : -0.99762 -0.99520 -0.99506 -0.99482 -0.99481
 highest: -0.13271 -0.12518 -0.02290  0.07468  0.14662 
 
 
-### fBodyBodyGyroJerkMag.meanFreq.. - class: numeric ### 
+### fbodygyrojerkmagmeanfreq - class: numeric
          n    missing     unique       Info       Mean        .05        .10 
        180          0        180          1     0.1259 -0.0511660  0.0007689 
        .25        .50        .75        .90        .95 
@@ -478,14 +478,16 @@ lowest : -0.1829 -0.1338 -0.1317 -0.1124 -0.1013
 highest:  0.3397  0.3440  0.3483  0.3587  0.4263 
 
 
-### recordtype - class: numeric ###
+### recordtype - class: numeric
       n missing  unique    Info    Mean 
     180       0       2    0.63     1.3 
 
-1 (126, 70%), 2 (54, 30%) 
+1 (126, 70%)
+
+2 (54, 30%) 
 
 
-### activities - class: numeric ###
+### activities - class: numeric
       n missing  unique    Info    Mean 
     180       0       6    0.97     3.5 
 
