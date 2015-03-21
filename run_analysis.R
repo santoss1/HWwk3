@@ -95,8 +95,10 @@ colnames(Question5)[50]<-"subjects"
 # Group the tidy data frame built for Question5 by subjects and activity_label
 # while summarizing the data by means
 # Make column names more explicit by getting rid of the ()
+# Get rid of the "." in the column names and get all names in small case format 
 Question5<-Question5 %>% group_by(subjects, activity_label) %>% summarise_each(funs(mean))
 names(Question5)<-make.names(names(Question5))
+names(Question5)<-tolower(gsub("\\.","",names(Question5)))
 
 # Exporting the resulting file Question5.txt into the working directory
 write.table(Question5,file="Question5.txt",sep=" ",row.names=FALSE,col.names=TRUE)
